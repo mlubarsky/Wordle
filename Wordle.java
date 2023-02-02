@@ -46,7 +46,7 @@ public class Wordle {
 
   	public static void main(String[] args) {
 
-     	System.out.println("Welcome to...");
+     	System.out.println("Welcome to....");
      	System.out.println();
      	System.out.println(" __      __                .___.__          ");
 	System.out.println("/  \\    /  \\___________  __| _/|  |   ____  ");
